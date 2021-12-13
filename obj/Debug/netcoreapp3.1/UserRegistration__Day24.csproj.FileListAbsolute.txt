@@ -1,0 +1,14 @@
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\obj\Debug\netcoreapp3.1\UserRegistration__Day24.csproj.AssemblyReference.cache
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\obj\Debug\netcoreapp3.1\UserRegistration__Day24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\obj\Debug\netcoreapp3.1\UserRegistration__Day24.AssemblyInfoInputs.cache
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\obj\Debug\netcoreapp3.1\UserRegistration__Day24.AssemblyInfo.cs
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\obj\Debug\netcoreapp3.1\UserRegistration__Day24.csproj.CoreCompileInputs.cache
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\bin\Debug\netcoreapp3.1\UserRegistration__Day24.exe
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\bin\Debug\netcoreapp3.1\UserRegistration__Day24.deps.json
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\bin\Debug\netcoreapp3.1\UserRegistration__Day24.runtimeconfig.json
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\bin\Debug\netcoreapp3.1\UserRegistration__Day24.runtimeconfig.dev.json
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\bin\Debug\netcoreapp3.1\UserRegistration__Day24.dll
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\bin\Debug\netcoreapp3.1\UserRegistration__Day24.pdb
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\obj\Debug\netcoreapp3.1\UserRegistration__Day24.dll
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\obj\Debug\netcoreapp3.1\UserRegistration__Day24.pdb
+C:\Users\tejuk\OneDrive\Desktop\UserRegistration__Day24\UserRegistration__Day24\obj\Debug\netcoreapp3.1\UserRegistration__Day24.genruntimeconfig.cache
